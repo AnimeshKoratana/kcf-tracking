@@ -6,8 +6,8 @@ Requirements before you run:
 2. FFMPEG with libx264 
 3. [OpenCV 3.4](https://github.com/opencv/opencv) with FFmpeg bindings (make sure to compile with the [opencv_contrib modules](https://github.com/opencv/opencv_contrib))
 4. [Facebook Folly](https://github.com/facebook/folly)
-  * [Glog](https://github.com/google/glog)
-  * [Double Conversion](https://github.com/google/double-conversion)
+    * [Glog](https://github.com/google/glog)
+    * [Double Conversion](https://github.com/google/double-conversion)
 
 To run:
 ```
