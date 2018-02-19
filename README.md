@@ -31,7 +31,7 @@ can be seen [here](data/taipei-hires-2017-04-08-annotated.mp4)
 2. A json file that contains an array of objects, one per frame. Each object has a frame number associated with it along with an array
 containing the boxes (of busses) found at the frame. The generated json output file can be seen [here](data/taipei-hires-2017-04-08-boxes.json) 
 
-The an example frame object follows the example below:
+An example frame object follows the example below:
 ```$xslt
 {
     "frame" : 1298,             //the frame number
