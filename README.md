@@ -4,7 +4,7 @@ Here we use a KCF (Kernelized Correlation Filters) tracker implemented by OpenCV
 Requirements before you run:
 1. make and cmake
 2. FFMPEG with libx264 
-3. [OpenCV 3.4 with FFmpeg bindings (make sure to compile with the opencv_contrib modules)](https://github.com/opencv/opencv)
+3. [OpenCV 3.4](https://github.com/opencv/opencv) with FFmpeg bindings (make sure to compile with the [opencv_contrib modules](https://github.com/opencv/opencv_contrib))
 4. [Facebook Folly](https://github.com/facebook/folly)
   * [Glog](https://github.com/google/glog)
   * [Double Conversion](https://github.com/google/double-conversion)
